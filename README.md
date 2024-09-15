@@ -32,6 +32,8 @@ In essence, PyAutoGUI is a Python software that runs on Windows, MacOS X, and Li
 A crucial component created to deal with mathematical operations is the Python math module. 
 It has always been there and is supplied with the default Python version. The majority of the 
 mathematical functions in the math module are only thin wrappers for the C platform's equivalents. The math module is effective and adheres to the C standard since its underlying functions are built in CPython. The Python math module gives you the possibility to perform common and useful mathematical operations within your programme. The Python math module offers a number of pre-set constants. There are many advantages to having access to these constants. One advantage is that by not having to manually hardcode them into your programme, you might save a lot of time
+### Time
+Python time module is an in-built module therefore it comes pre-installed with the Python package. In order to use the time module we need to only import this module.
 ## CONCLUSION
 The virtual mouse system's main objective is to eliminate the need for a hardware mouse by allowing users to manage mouse cursor functions with hand gestures instead. The described method can be used with a webcam or an integrated camera that analyses frames to
 recognise hand movements and hand tips and execute specific mouse actions. The model has some 
